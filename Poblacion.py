@@ -1,6 +1,6 @@
 import random
 from Individuo import Individuo
-
+#
 class Poblacion():
 	# !Estas variables se comparte entre todos los objetos de la clase Poblacion
 
